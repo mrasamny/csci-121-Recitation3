@@ -1,4 +1,4 @@
-# Recitation 4 - Objects Having Objects
+# Recitation 3 - Objects Having Objects
 
 ## Learning Outcomes
 
@@ -21,7 +21,7 @@ For this recitation, you will implement the following:
 4. The method <span style="font-family:'courier',courier new;">contains()</span>, which returns true if the point passed is in the circle.
 5. The method <span style="font-family:'courier',courier new;">intersects()</span>, which returns true if this circle intersects the circle passed.
 
-## Using the Circle Class - The Recitation4 Class
+## Using the Circle Class - The Recitation3 Class
 
 The Reciation4 class contains a main method that is the entry point into the program.  When you submit the code during development, Java will automatically invoke the main method.  You will implement this method to do the following:
 1. Get an x and y coordinates from the user.
