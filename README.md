@@ -23,7 +23,7 @@ For this recitation, you will implement the following:
 
 ## Using the Circle Class - The Recitation3 Class
 
-The Reciation4 class contains a main method that is the entry point into the program.  When you submit the code during development, Java will automatically invoke the main method.  You will implement this method to do the following:
+The Recitation3 class contains a main method that is the entry point into the program.  When you submit the code during development, Java will automatically invoke the main method.  You will implement this method to do the following:
 1. Get an x and y coordinates from the user.
 2. Create an instance of a Circle at (x,y) with radius=16.0 called circle16;
 3. Create another instance of a Circle at (14,12) with radius=40.0 called circle40;
