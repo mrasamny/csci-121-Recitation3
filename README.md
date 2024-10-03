@@ -27,10 +27,7 @@ The Recitation3 class contains a main method that is the entry point into the pr
 1. Get an x and y coordinates from the user.
 2. Create an instance of a Circle at (x,y) with radius=16.0 called circle16;
 3. Create another instance of a Circle at (14,12) with radius=40.0 called circle40;
-4. If the two circles intersect, print <span style="font-family:'courier',courier new; border:1px solid black; background-color:#efefef; padding:0 3px 0 3px;">true</span>; otherwise print <span style="font-family:'courier',courier new; border:1px solid black; background-color:#efefef; padding:0 3px 0 3px;">false</span>.
-
-Step 4 requires knowledge of if-then-else statement in Java.  If we have not covered it in class by the time you work on
-this recitation, you can look it up.  It is straight forward and conceptually the same as in Python.
+4. Print out `true` or `false` depending on whether the circles intersect or not intersect, respectively.  So, you only need to print the result returned by the intersects method - no need to use an if-then statement.
 
 For example:
 
